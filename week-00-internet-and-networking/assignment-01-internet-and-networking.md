@@ -25,16 +25,16 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](<img width="1015" height="752" alt="image" src="https://github.com/user-attachments/assets/0356fa43-2784-4bcb-9913-ddc1f7763bf0" />
+)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
-## What I Learned (2–3 lines)
-
-Add your answer here...
+## What I Learned (2–3 line)
+protocol networking isa set of arrays and communication with each other
 
 ---
 
